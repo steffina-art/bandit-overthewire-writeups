@@ -1,5 +1,3 @@
-I've been working through [OverTheWire's Bandit wargame](https://overthewire.org/wargames/bandit/) to get more comfortable with the Linux command line, and figured I'd keep notes on how I cracked each level. Nothing fancy here — just what I ran and why it worked, mostly so future-me remembers the logic instead of just the commands. And these are the commands I used in Windows PowerShell.
-A quick note before diving in: I'm leaving the actual passwords out of this writeup and using placeholders like `<password>` instead. Anyone doing the game should find their own — that's kind of the point, So that will make them more interested rather than spoonfeed.
 All levels are reached the same basic way:
 
 ```bash
